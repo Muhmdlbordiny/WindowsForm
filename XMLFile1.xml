@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+	<appSettings>
+		<add key =" BranchId " value =" 5"/>
+	</appSettings>
+	<connectionStrings>
+		<add name ="BikeStores" connectionString ="Server = DESKTOP-SMHGA8V\\SQL;Initial Catalog = BikeStores; Integrated Security =true "/>
+	</connectionStrings>
+</Configuration>
